@@ -1,1 +1,1 @@
-print("Hii gays")
+print("Hai da somta")
